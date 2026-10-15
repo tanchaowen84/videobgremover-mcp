@@ -1,0 +1,21 @@
+{
+  "name": "videobgremover",
+  "version": "1.0.0",
+  "description": "Remove video backgrounds through the hosted VideoBGRemover MCP server with OAuth and account credit budgets.",
+  "author": {
+    "name": "VideoBGRemover",
+    "email": "support@videobgremover.net"
+  },
+  "homepage": "https://videobgremover.net/mcp",
+  "repository": "https://github.com/tanchaowen84/videobgremover-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "video",
+    "background-removal",
+    "oauth",
+    "transparent-webm"
+  ],
+  "displayName": "VideoBGRemover MCP",
+  "logo": "assets/logo.png"
+}

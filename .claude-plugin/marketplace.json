@@ -1,0 +1,15 @@
+{
+  "name": "videobgremover",
+  "owner": {
+    "name": "VideoBGRemover",
+    "email": "support@videobgremover.net"
+  },
+  "plugins": [
+    {
+      "name": "videobgremover",
+      "source": "./",
+      "description": "Remove video backgrounds through the hosted VideoBGRemover MCP server with OAuth and account credit budgets.",
+      "version": "1.0.0"
+    }
+  ]
+}
